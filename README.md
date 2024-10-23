@@ -2,3 +2,4 @@
 Nama anggota : 
 - Hizkia Jonathan Palar
 - Cahyani, Fahrunnisa Indah 
+- Senduk, Gabriela Serafin
