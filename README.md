@@ -1,6 +1,9 @@
 # Kelompok_Summer
-Nama anggota : 
+
+Nama anggota :
+
 - Hizkia Jonathan Palar
-- Cahyani, Fahrunnisa Indah 
+- Cahyani, Fahrunnisa Indah
 - Senduk, Gabriela Serafin
 - Kussoy, Lawrence Kussoy
+- Jonathan Vito Taufik
