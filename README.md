@@ -1,2 +1,4 @@
 # Kelompok_Summer
-Nama anggota : - Hizkia Jonathan Palar
+Nama anggota : 
+- Hizkia Jonathan Palar
+- Cahyani, Fahrunnisa Indah 
